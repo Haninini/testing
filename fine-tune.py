@@ -3,7 +3,7 @@ import sys
 import glob
 import argparse
 import matplotlib.pyplot as plt
-
+# commente
 from keras import __version__
 from keras.applications.inception_v3 import InceptionV3, preprocess_input
 from keras.models import Model
